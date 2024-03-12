@@ -34,6 +34,8 @@ button {
     background-color: #007bff;
     color: white;
     border-radius: 3px;
+    text-align: center;
+    margin: 20px;
     cursor: pointer;
 }
 

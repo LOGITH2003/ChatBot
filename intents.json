@@ -32,41 +32,34 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
-      "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
-      ],
-      "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
-      ]
+      "tag": "options",
+      "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+      "responses": ["I can guide you through Salem Corporation's location, working hours and contact details"]
     },
     {
-      "tag": "payments",
-      "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
-      ],
-      "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
-      ]
+      "tag": "corporation",
+      "patterns": ["What is Salem Corporation?", "What does Salem Corporation do?", "What is the purpose of Salem Corporation?"],
+      "responses": ["Salem Corporation is a local government body that administers the city of Salem, Tamil Nadu, India. It is the second largest municipal corporation in Tamil Nadu."]
     },
     {
-      "tag": "delivery",
-      "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
-      ],
-      "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
-      ]
+      "tag": "contact",
+      "patterns": ["How can I contact Salem Corporation?", "What is the contact number of Salem Corporation?", "What is the email id of Salem Corporation?"],
+      "responses": ["You can contact Salem Corporation at 0427 222 3800"]
+    },
+    {
+      "tag": "hours",
+      "patterns": ["What are the working hours of Salem Corporation?", "What are the opening hours of Salem Corporation?", "When does Salem Corporation open?"],
+      "responses": ["Monday: 9:00 AM 5:00 PM Sun: Closed"]
+    },
+    {
+      "tag": "location",
+      "patterns": ["Where is Salem Corporation located?", "What is the address of Salem Corporation?", "What is the location of Salem Corporation?"],
+      "responses": ["M543+2XH, Fort Main Rd, Shevapet, Salem, Tamil Nadu 636001"]
+    },
+    {
+      "tag": "noanswer",
+      "patterns": [],
+      "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
     },
     {
       "tag": "funny",
@@ -78,6 +71,28 @@
       "responses": [
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "salem corporation location",
+      "patterns": [
+        "Salem Corporation is located in which place?",
+        "Could you please share the location of Salem Corporation?",
+        "Could you share the salem corporation location?"
+      ],
+      "responses": [
+        "M543+2XH, Fort Main Rd, Shevapet, Salem, Tamil Nadu 636001"        
+      ]
+    },
+    {
+      "tag": "coporation",
+      "patterns": [
+        "What are the opening hours of the corporation?",
+        "What are the working hours of the corporation?",
+        "When does the corporation open?"
+      ],
+      "responses": [
+        "Monday: 9:00 AM 5:00 PM Sun: Closed"
       ]
     }
   ]
