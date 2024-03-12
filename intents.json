@@ -57,6 +57,11 @@
       "responses": ["M543+2XH, Fort Main Rd, Shevapet, Salem, Tamil Nadu 636001"]
     },
     {
+      "tag": "location",
+      "patterns": ["Where is Salem Corporation located?", "What is the address of Salem Corporation?", "What is the location of Salem Corporation?"],
+      "responses": ["M543+2XH, Fort Main Rd, Shevapet, Salem, Tamil Nadu 636001"]
+    },
+    {
       "tag": "noanswer",
       "patterns": [],
       "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
