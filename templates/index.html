@@ -44,6 +44,9 @@
             .then(data => {
                 var botMessage = '<div class="bot-message">' + data.bot_response + '</div>';
                 chatBox.innerHTML += botMessage;
+                
+                // Clear user input after message is sent
+                document.getElementById('user-input').value = '';
             });
         }
         
