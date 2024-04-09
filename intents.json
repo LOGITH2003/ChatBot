@@ -316,6 +316,26 @@
       "tag":"Industry/ Industries and Commerce Commissionerate / Assessed value Added Tax/fund amount",
       "patterns":["scheme no 19647 fund amount","scheme related to assessed value added tax fund amount","assessed value added tax scheme fund amount","scheme avialable for assessed value added tax fund amount"],
       "responses":["Assessed Value Added Tax (VAT) for the first six years from the date of commencement of production"]
+    },
+    {
+      "tag":"Industry/ state capital subsidy",  
+      "patterns":["state capital subsidy scheme","state capital subsidy scheme details","state capital subsidy scheme for industries","state capital subsidy scheme for industries and commerce commissionerate"],
+      "responses":["Title/Name: Application for State Capital Subsidy,Sponsored By :State,Funding Pattern : 15%, Benefits Types: Subsidy,How To Avail: Apply to District Industries Centre or Regional Joint Director,Chennai  Description : 15 % capital subsidy on the value of eligible plant and machinery subject to a maximum of Rs.3.75 lakhs."]
+    },
+    {
+      "tag":"Industry/ state capital subsidy/fund amount",
+      "patterns":["state capital subsidy scheme fund amount","state capital subsidy scheme details fund amount","state capital subsidy scheme for industries fund amount","state capital subsidy scheme for industries and commerce commissionerate fund amount"],
+      "responses":["15 % capital subsidy on the value of eligible plant and machinery subject to a maximum of Rs.3.75 lakhs."]  
+    },
+    {
+      "tag":"Industry/ state capital subsidy/application process",
+      "patterns":["How to apply for the state capital subsidy scheme","How to apply for the state capital subsidy","How to apply for the state capital subsidy scheme for industries","How to apply for the state capital subsidy scheme for industries and commerce commissionerate"],
+      "responses":["Apply to District Industries Centre or Regional Joint Director,Chennai"]
+    },
+    {
+      "tag":"Industry/ state capital subsidy/Description",
+      "patterns":["state capital subsidy scheme Description","state capital subsidy scheme details Description","state capital subsidy scheme for industries Description","state capital subsidy scheme for industries and commerce commissionerate Description"],
+      "responses":["15 % capital subsidy on the value of eligible plant and machinery subject to a maximum of Rs.3.75 lakhs."]
     }
   ]
 }
