@@ -225,6 +225,97 @@
       "tag":"public sector / Journalists/ Journalists Medical Fund/application process",
       "patterns":["How to apply for the journalists medical fund","How to apply for the journalists medical fund details","How to apply for the government medical fund for journalists","How to apply for the medical fund for journalists"],
       "responses":["Financial assistance to Journalists for medical treatment is provided from the Chief Minister’s Public Relief Fund."]
+    },
+
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Generator Set",
+      "patterns":["generator set scheme","generator set scheme details","generator set scheme for industries","generator set scheme for industries and commerce commissionerate"],
+      "responses":["Title / Name : Application for sanction of subsidy for the purchase of Generator Set, Sponsored By : State, Funding Pattern:25%, subject to a maximum of Rs.1.50 lakhs,Benefits Types : Subsidy, How To Avail: Apply to District Industries Centre, Description: Generator Subsidy at 25% of the cost of generator up to 125 KVA capacity, subject to a maximum of Rs.1.50 lakhs would be eligible to micro, small and medium manufacturing enterprises set up anywhere in the State."]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Generator Set/fund amount",
+      "patterns":["generator set scheme fund amount","generator set scheme details fund amount","generator set scheme for industries fund amount","generator set scheme for industries and commerce commissionerate fund amount"],
+      "responses":["Generator Subsidy at 25% of the cost of generator up to 125 KVA capacity, subject to a maximum of Rs.1.50 lakhs would be eligible to micro, small and medium manufacturing enterprises set up anywhere in the State."]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Generator Set/application process",
+      "patterns":["How to apply for the generator set scheme","How to apply for the generator set scheme details","How to apply for the generator set scheme for industries","How to apply for the generator set scheme for industries and commerce commissionerate"],
+      "responses":["Apply to District Industries Centre"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Generator Set/eligibility",
+      "patterns":["generator set scheme eligibility","generator set scheme details eligibility","generator set scheme for industries eligibility","generator set scheme for industries and commerce commissionerate eligibility"],
+      "responses":["Generator Subsidy at 25% of the cost of generator up to 125 KVA capacity, subject to a maximum of Rs.1.50 lakhs would be eligible to micro, small and medium manufacturing enterprises set up anywhere in the State."]  
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Energy Conservation",
+      "patterns":["energy conservation scheme","energy conservation scheme details","energy conservation scheme for industries","energy conservation scheme for industries and commerce commissionerate"],
+      "responses":["Title / Name : Energy Conservation, Sponsored By : State, Funding Pattern:25%, subject to a maximum of Rs.1.50 lakhs,Benefits Types : Subsidy, How To Avail: Apply to District Industries Centre, Description: Energy Conservation Subsidy at 25% of the cost of energy conservation equipment subject to a maximum of Rs.1.50 lakhs would be eligible to micro, small and medium manufacturing enterprises set up anywhere in the State."]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Energy Conservation/fund amount",
+      "patterns":["energy conservation scheme fund amount","energy conservation scheme details fund amount","energy conservation scheme for industries fund amount","energy conservation scheme for industries and commerce commissionerate fund amount"],
+      "responses":["Energy Conservation Subsidy at 25% of the cost of energy conservation equipment subject to a maximum of Rs.1.50 lakhs would be eligible to micro, small and medium manufacturing enterprises set up anywhere in the State."]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Energy Conservation/application process",
+      "patterns":["How to apply for the energy conservation scheme","How to apply for the energy conservation scheme details","How to apply for the energy conservation scheme for industries","How to apply for the energy conservation scheme for industries and commerce commissionerate"],
+      "responses":["Apply to District Industries Centre"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate/ Energy Conservation/eligibility",
+      "patterns":["energy conservation scheme eligibility","energy conservation scheme details eligibility","energy conservation scheme for industries eligibility","energy conservation scheme for industries and commerce commissionerate eligibility"],
+      "responses":["Energy Conservation Subsidy at 25% of the cost of energy conservation equipment subject to a maximum of Rs.1.50 lakhs would be eligible to micro, small and medium manufacturing enterprises set up anywhere in the State."]  
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / SIPCOT Industrial Park",
+      "patterns":["SIPCOT industrial park scheme","what are the scheme are aviable for SIPCOT","schemes related to SIPCOT industrial parks","SIPCOT industrial park related schemes","SIPCOT industrial park related schemes details"],
+      "responses":["Title / Name : Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates, Sponsored By : State, Funding Pattern : Quantum of incentives 20% of the area, Benefits Types : Incentives, How To Avail : To apply to SIPCOT, Description : All new / expansion schemes of SIPCOT Industrial Estates"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / SIPCOT Industrial Park/fund amount",
+      "patterns":["SIPCOT industrial park scheme fund amount","what are the scheme are aviable for SIPCOT fund amount","schemes related to SIPCOT industrial parks fund amount","SIPCOT industrial park related schemes fund amount","SIPCOT industrial park related schemes details fund amount"],
+      "responses":["Quantum of incentives 20% of the area"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / SIPCOT Industrial Park/application process",
+      "patterns":["How to apply for the SIPCOT industrial park scheme","How to apply for the SIPCOT","How to apply for the schemes related to SIPCOT industrial parks","How to apply for the SIPCOT industrial park related schemes","How to apply for the SIPCOT industrial park related schemes details"],
+      "responses":["To apply to SIPCOT"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / SIPCOT Industrial Park/Description",
+      "patterns":["SIPCOT industrial park scheme Description","what are the scheme are aviable for SIPCOT Description","schemes related to SIPCOT industrial parks Description","SIPCOT industrial park related schemes Description","SIPCOT industrial park related schemes details Description"],
+      "responses":["All new / expansion schemes of SIPCOT Industrial Estates"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / TANSIDCO Industrial estates",
+      "patterns":["TANSIDCO industrial estates scheme","what are the scheme are aviable for TANSIDCO","schemes related to TANSIDCO industrial estates","TANSIDCO industrial estates related schemes","TANSIDCO industrial estates related schemes details"],
+      "responses":["Title / Name : Reservation for Micro Enterprises in TANSIDCO Industrial Estates,Sponsored By : State, Funding Pattern : Quantum of incentives-30% of the area, Benefits Types : Incentives, How To Avail : To apply to SIDCO, Description : All TANSIDCO Industrial Estates"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / TANSIDCO Industrial estates/application process",
+      "patterns":["How to apply for the TANSIDCO industrial park scheme","How to apply for the TANSIDCO","How to apply for the schemes related to TANSIDCO industrial parks","How to apply for the TANSIDCO industrial park related schemes","How to apply for the TANSIDCO industrial park related schemes details"],
+      "responses":["To apply to SIDCO"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / TANSIDCO Industrial estates/fund process",
+      "patterns":["TANSIDCO industrial estates scheme fund amount","what are the scheme are aviable for TANSIDCO fund amount","schemes related to TANSIDCO industrial estates fund amount","TANSIDCO industrial estates related schemes fund amount","TANSIDCO industrial estates related schemes details fund amount"],
+      "responses":["TANSIDCO Industrial Estates fund amount is Quantum of incentives-30% of the area"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / Assessed value Added Tax",
+      "patterns":["scheme no 19647","scheme related to assessed value added tax","assessed value added tax scheme","scheme avialable for assessed value added tax"],
+      "responses":["Title / Name : Subsidy on the assessed Value Added Tax (VAT), Associated Scheme : 19647, Sponsored By : State, Funding Pattern : Assessed Value Added Tax (VAT) for the first six years from the date of commencement of production, Benefits Types : Subsidy, How To Avail : 1. For issue of an Eligibility Certificate within one year from the date of commencement of production 2. For submission of VAT claims VAT reimbursement claims should be submitted within one month after completion of each quarter.Description : Anywhere in the state"]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / Assessed value Added Tax/ application",
+      "patterns":["how to apply for the Assessed value added tax","how to apply the scheme related to Assessed value added tax"],
+      "responses":["1. For issue of an Eligibility Certificate within one year from the date of commencement of production 2. For submission of VAT claims VAT reimbursement claims should be submitted within one month after completion of each quarter."]
+    },
+    {
+      "tag":"Industry/ Industries and Commerce Commissionerate / Assessed value Added Tax/fund amount",
+      "patterns":["scheme no 19647 fund amount","scheme related to assessed value added tax fund amount","assessed value added tax scheme fund amount","scheme avialable for assessed value added tax fund amount"],
+      "responses":["Assessed Value Added Tax (VAT) for the first six years from the date of commencement of production"]
     }
   ]
 }
