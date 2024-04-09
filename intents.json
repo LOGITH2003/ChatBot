@@ -7,8 +7,7 @@
         "Hey",
         "How are you",
         "Is anyone there?",
-        "Hello",
-        "Good day"
+        "Hello"
       ],
       "responses": [
         "Hey :-)",
@@ -125,6 +124,28 @@
       "tag":"public sector /Farm Mechanization/application process",
       "patterns":["How to apply for the Farm Mechanization scheme","Farm Mechanization scheme application process","Farm Mechanization scheme application form","scheme no 19612 application process","where to apply the Farm Mechanization scheme","where to apply the scheme no 19612","Farm Mechanization applying process","were to apply the Farm Mechanization scheme","how to apply the scheme no 19612"],
       "responses":["Chairman / District Collector, Project Officer /Joint Director of Agriculture , DWDA, (PIA) at District level. Chief Executive Officer, State Level Nodal Agency, Chennai-32 (at State level)"]
+    },
+
+
+    {
+      "tag":"public sector / Handloom weavers / Scheme for integrated textile parks(SITP) Under the Scheme for setting up of Integrated Textile Parks",
+      "patterns":["what are the scheme for integrated textile parks","scheme for integrated textile parks","SITP schemes","Handloon weavers scheme","Handloom weavers scheme for integrated textile parks","Handloom weavers scheme for setting up of Integrated Textile Parks","textile related scheme","textile related scheme for Handloom weavers","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks","textile related scheme for Handloom weavers for integrated textile parks","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks"],
+      "responses":["Title / Name : Handlooms and Textiles Department - Scheme for integrated textile parks(SITP) Under the Scheme for setting up of Integrated Textile Parks, Sponsored By : State, Funding Pattern : Under the Scheme for setting up of Integrated Textile Parks, the Government of India provides Grant or equity limited to 40% of the project cost subject to a ceiling of Rs.40 crore for the textile projects. However, the combined equity stake of Government of India / State Government / State Industrial Development Corporation, if any, should not exceed 49%. How To Avail : Director of Welfare Schemes Of Handlooms and Textiles Department, Description : Under the Scheme for setting up of Integrated Textile Parks, the Government of India provides Grant or equity limited to 40% of the project cost subject to a ceiling of Rs.40 crore for the textile projects. However, the combined equity stake of Government of India / State Government / State Industrial Development Corporation, if any, should not exceed 49%."]
+    },
+    {
+      "tag":"public sector / Handloom weavers / Scheme for integrated textile parks(SITP) Under the Scheme for setting up of Integrated Textile Parks/fund amount",
+      "patterns":["scheme for integrated textile parks fund amount","SITP schemes fund amount","Handloon weavers scheme fund amount","Handloom weavers scheme for integrated textile parks fund amount","Handloom weavers scheme for setting up of Integrated Textile Parks fund amount","textile related scheme fund amount","textile related scheme for Handloom weavers fund amount","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks fund amount","textile related scheme for Handloom weavers for integrated textile parks fund amount","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks fund amount"],
+      "responses":["Under the Scheme for setting up of Integrated Textile Parks, the Government of India provides Grant or equity limited to 40% of the project cost subject to a ceiling of Rs.40 crore for the textile projects. However, the combined equity stake of Government of India / State Government / State Industrial Development Corporation, if any, should not exceed 49%."]
+    },
+    {
+      "tag":"public sector / Handloom weavers / Scheme for integrated textile parks(SITP) Under the Scheme for setting up of Integrated Textile Parks/application process",
+      "patterns":["How to apply for the scheme for integrated textile parks","How to apply for the SITP schemes","How to apply for the Handloon weavers scheme","How to apply for the Handloom weavers scheme for integrated textile parks","How to apply for the Handloom weavers scheme for setting up of Integrated Textile Parks","How to apply for the textile related scheme","How to apply for the textile related scheme for Handloom weavers","How to apply for the textile related scheme for Handloom weavers for setting up of Integrated Textile Parks","How to apply for the textile related scheme for Handloom weavers for integrated textile parks","How to apply for the textile related scheme for Handloom weavers for setting up of Integrated Textile Parks"],
+      "responses":["Director of Welfare Schemes Of Handlooms and Textiles Department"]
+    },
+    {
+      "tag":"public sector / Handloom weavers / Scheme for integrated textile parks(SITP) Under the Scheme for setting up of Integrated Textile Parks/eligibility",
+      "patterns":["scheme for integrated textile parks eligibility","SITP schemes eligibility","Handloon weavers scheme eligibility","Handloom weavers scheme for integrated textile parks eligibility","Handloom weavers scheme for setting up of Integrated Textile Parks eligibility","textile related scheme eligibility","textile related scheme for Handloom weavers eligibility","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks eligibility","textile related scheme for Handloom weavers for integrated textile parks eligibility","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks eligibility"],
+      "responses":["Under the Scheme for setting up of Integrated Textile Parks, the Government of India provides Grant or equity limited to 40% of the project cost subject to a ceiling of Rs.40 crore for the textile projects. However, the combined equity stake of Government of India / State Government / State Industrial Development Corporation, if any, should not exceed 49%."]  
     }
   ]
 }
