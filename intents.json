@@ -50,6 +50,81 @@
       "tag": "public sector /farmer training scheme/application process",
       "patterns":["How to apply for the farmer training scheme","farmer training scheme application process","farmer training scheme application form","scheme no 6813 application process","where to apply the farmer training scheme","where to apply the scheme no 6813","farmer training applying process","were to apply the farmer training scheme","how to apply the scheme no 6813"],
       "responses":["Assistant Agricultural officer at the Village Level Agricultural Officer / Deputy Agricultural Officer at the Block Level The Assistant Director of Agriculture at the Block Level The Joint Director of Agriculture at the District Level"]
+    },
+    {
+      "tag":"public sector /certified seed of maize/6816",
+      "patterns":["scheme no 6816","certified seed of maize related scheme","state associate certified seed of maize related scheme","certified seed of maize related scheme","certified seed of maize","certified seed of maize"],
+      "responses":["Title / Name : Distribution of Certified Seeds of maize,  Associated Scheme : 6816,  Sponsored By : State,  Funding Pattern : 50% of the cost of the seed subject to a maximum of Rs.1200/-per Quintal whichever is less,  How To Avail : The application is to be submitted to: Assistant Agricultural officer at the Village Level Agricultural Officer / Deputy Agricultural Officer at the Block Level The Assistant Director of Agriculture at the Block Level The Joint Director of Agriculture at the District Level,  Description : All maize growing farmers are eligible to avail of the subsidy under this scheme in the Districts of Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi. Preference will be given to Small/Marginal farmers 24% flow to SC/ST farmers will be ensured 20% flow to women farmers/ women groups,  Description : 50 farmers / Agricultural labourers will be trained in a cluster with the financial assistance of Rs.5000/- per training."]
+    },
+    {
+      "tag":"public sector /certified seed of maize/fund amount",
+      "patterns":["scheme no 6816 fund amount","certified seed of maize related scheme fund amount","state associate certified seed of maize related scheme fund amount","certified seed of maize scheme related benfit amount"],
+      "responses":["Certified seed of maize fund amount is 50% of the cost of the seed subject to a maximum of Rs.1200/-per Quintal whichever is less","State governemnt will provide 50% of the cost of the seed subject to a maximum of Rs.1200/-per Quintal whichever is less for the certified seed of maize scheme","The fund amount for the certified seed of maize scheme is 50% of the cost of the seed subject to a maximum of Rs.1200/-per Quintal whichever is less"]
+    },
+    {
+      "tag":"public sector /certified seed of maize/application process",
+      "patterns":["How to apply for the certified seed of maize scheme","certified seed of maize scheme application process","certified seed of maize scheme application form","scheme no 6816 application process","where to apply the certified seed of maize scheme","where to apply the scheme no 6816","certified seed of maize applying process","were to apply the certified seed of maize scheme","how to apply the scheme no 6816"],
+      "responses":["Assistant Agricultural officer at the Village Level Agricultural Officer / Deputy Agricultural Officer at the Block Level The Assistant Director of Agriculture at the Block Level The Joint Director of Agriculture at the District Level"]
+    },
+    {
+      "tag":"public sector /manually operated Plant Protection Equipment/6817",
+      "patterns":["scheme no 6817","manually operated Plant Protection Equipment related scheme","state associate manually operated Plant Protection Equipment","manually operated Plant Protection Equipment related scheme","manually operated Plant Protection Equipment"],
+      "responses":["Title / Name : Distribution of manually operated Plant Protection Equipment,  Associated Scheme : 6817,  Sponsored By : State,  Funding Pattern : A subsidy of 50% on the cost of equipment or Rs. 800/- whichever is less,  How To Avail : The Application is to be submitted to: Assistant Agricultural officer at the Village Level Agricultural Officer / Deputy Agricultural Officer at the Block Level The Assistant Director of Agriculture at the Block Level The Joint Director of Agriculture at the District Level,  Description : All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of funds. SC/ST 24%, Farm Women 20%"]
+    },
+    {
+      "tag":"public sector /manually operated Plant Protection Equipment/fund amount",
+      "patterns":["scheme no 6817 fund amount","manually operated Plant Protection Equipment related scheme fund amount","state associate manually operated Plant Protection Equipment related scheme fund amount","manually operated Plant Protection Equipment scheme related benfit amount"],
+      "responses":["Manually operated Plant Protection Equipment fund amount is A subsidy of 50% on the cost of equipment or Rs. 800/- whichever is less","State governemnt will provide A subsidy of 50% on the cost of equipment or Rs. 800/- whichever is less for the manually operated Plant Protection Equipment scheme","The fund amount for the manually operated Plant Protection Equipment scheme is A subsidy of 50% on the cost of equipment or Rs. 800/- whichever is less"]
+    },
+    {
+      "tag":"public sector /manually operated Plant Protection Equipment/application process",
+      "patterns":["How to apply for the manually operated Plant Protection Equipment scheme","manually operated Plant Protection Equipment scheme application process","manually operated Plant Protection Equipment scheme application form","scheme no 6817 application process","where to apply the manually operated Plant Protection Equipment scheme","where to apply the scheme no 6817","manually operated Plant Protection Equipment applying process","were to apply the manually operated Plant Protection Equipment scheme","how to apply the scheme no 6817"],
+      "responses":["Assistant Agricultural officer at the Village Level Agricultural Officer / Deputy Agricultural Officer at the Block Level The Assistant Director of Agriculture at the Block Level The Joint Director of Agriculture at the District Level"]
+    },
+    {
+      "tag":"public sector /Certified seeds - Oil Seeds/6818",
+      "patterns":["scheme no 6818","Certified seeds - Oil Seeds related scheme","state associate Certified seeds - Oil Seeds related scheme","Certified seeds - Oil Seeds related scheme","Certified seeds - Oil Seeds"],
+      "responses":["Title / Name : Distribution of Certified seeds - Oil Seeds, Associated Scheme : 6818,  Sponsored By:  State,Funding Pattern : 50% of the cost of seed or Rs. 1200/-per quintal whichever is less,  How To Avail : Application is to be submitted to: Assistant Agricultural officer at the Village Level Agricultural Officer / Deputy Agricultural Officer at the Block Level The Assistant Director of Agriculture at the Block Level The Joint Director of Agriculture at the District Level,  Description : Those farmers who produce and supply Foundation and Certified Class seeds to the Department are eligible to avail of the benefit"]  
+    },
+    {
+      "tag":"public sector /Certified seeds - Oil Seeds/fund amount",
+      "patterns":["scheme no 6818 fund amount","Certified seeds - Oil Seeds related scheme fund amount","state associate Certified seeds - Oil Seeds related scheme fund amount","Certified seeds - Oil Seeds scheme related benfit amount"],
+      "responses":["Certified seeds - Oil Seeds fund amount is 50% of the cost of seed or Rs. 1200/-per quintal whichever is less","State governemnt will provide 50% of the cost of seed or Rs. 1200/-per quintal whichever is less for the Certified seeds - Oil Seeds scheme","The fund amount for the Certified seeds - Oil Seeds scheme is 50% of the cost of seed or Rs. 1200/-per quintal whichever is less"]
+    },
+    {
+      "tag":"public sector /Certified seeds - Oil Seeds/application process",
+      "patterns":["How to apply for the Certified seeds - Oil Seeds scheme","Certified seeds - Oil Seeds scheme application process","Certified seeds - Oil Seeds scheme application form","scheme no 6818 application process","where to apply the Certified seeds - Oil Seeds scheme","where to apply the scheme no 6818","Certified seeds - Oil Seeds applying process","were to apply the Certified seeds - Oil Seeds scheme","how to apply the scheme no 6818"],
+      "responses":["Assistant Agricultural officer at the Village Level Agricultural Officer / Deputy Agricultural Officer at the Block Level The Assistant Director of Agriculture at the Block Level The Joint Director of Agriculture at the District Level"]
+    },
+    {
+      "tag":"public sector /Farm Production System and micro enterprises /19611",
+      "patterns":["scheme no 19611","Farm Production System and micro enterprises related scheme","state associate Farm Production System and micro enterprises related scheme","Farm Production System and micro enterprises related scheme","Farm Production System and micro enterprises"],
+      "responses":["Title / Name : Farm Production System and micro enterprises - Sponsored By State Govt,Associated Scheme : 19611, Sponsored By : State,Funding Pattern : Subsidy :1560/-, How To Avail : 1)Chairman / District Collector, 2)Project Officer /Joint Director of Agriculture , DWDA, (PIA) at District level. 1)Chief Executive Officer, State Level Nodal Agency, Chennai-32 (at State level), Description : Demonstration for popularizing new crops/ varieties, and new technologies in Agriculture and allied sectors. Diversification of production systems like Dryland Horticulture, Agro Forestry, Household production system,Adoption of proven technology, activities like INM, IPM, Fodder development, Organic farming, Multiple cropping, Improved inter cropping seed village concept, Fisheries development in village ponds, farm ponds and tanks, Sericulture, back yard poultry,Livestock management and other micro enterprises etc.are carried out under this component."]
+    },
+    {
+      "tag":"public sector /Farm Production System and micro enterprises/fund amount",
+      "patterns":["scheme no 19611 fund amount","Farm Production System and micro enterprises related scheme fund amount","state associate Farm Production System and micro enterprises related scheme fund amount","Farm Production System and micro enterprises scheme related benfit amount"],
+      "responses":["Farm Production System and micro enterprises fund amount is Subsidy :1560/-","State governemnt will provide Subsidy :1560/- for the Farm Production System and micro enterprises scheme","The fund amount for the Farm Production System and micro enterprises scheme is Subsidy :1560/-"]
+    },
+    {
+      "tag":"public sector /Farm Production System and micro enterprises /application process",
+      "patterns":["How to apply for the Farm Production System and micro enterprises scheme","Farm Production System and micro enterprises scheme application process","Farm Production System and micro enterprises scheme application form","scheme no 19611 application process","where to apply the Farm Production System and micro enterprises scheme","where to apply the scheme no 19611","Farm Production System and micro enterprises applying process","were to apply the Farm Production System and micro enterprises scheme","how to apply the scheme no 19611"],
+      "responses":["Chairman / District Collector, Project Officer /Joint Director of Agriculture , DWDA, (PIA) at District level. Chief Executive Officer, State Level Nodal Agency, Chennai-32 (at State level)"]
+    },
+    {
+      "tag":"public sector /Farm Mechanization /19612",
+      "patterns":["scheme no 19612","Farm Mechanization related scheme","state associate Farm Mechanization related scheme","Farm Mechanization related scheme","Farm Mechanization"],
+      "responses":["Title / Name : Farm Mechanization - Sponsored By State Govt,Associated Scheme : 19612, Sponsored By : State,Funding Pattern : Subsidy : 50% of the cost of the equipment subject to a maximum of Rs. 1.00 lakh, How To Avail : 1)Chairman / District Collector, 2)Project Officer /Joint Director of Agriculture , DWDA, (PIA) at District level. 1)Chief Executive Officer, State Level Nodal Agency, Chennai-32 (at State level), Description : The scheme is implemented for the benefit of small and marginal farmers. The subsidy is provided for the purchase of farm machinery and implements like Tractors, Power tillers, Rotavators, Seed drills, Planters, Sprayers, Dusters, Harvesters, Threshers, Chaff cutters, etc. The subsidy is provided at 50% of the cost of the equipment subject to a maximum of Rs. 1.00 lakh."]
+    },
+    {
+      "tag":"public sector /Farm Mechanization/fund amount",
+      "patterns":["scheme no 19612 fund amount","Farm Mechanization related scheme fund amount","state associate Farm Mechanization related scheme fund amount","Farm Mechanization scheme related benfit amount"],
+      "responses":["Farm Mechanization fund amount is Subsidy : 50% of the cost of the equipment subject to a maximum of Rs. 1.00 lakh","State governemnt will provide Subsidy : 50% of the cost of the equipment subject to a maximum of Rs. 1.00 lakh for the Farm Mechanization scheme","The fund amount for the Farm Mechanization scheme is Subsidy : 50% of the cost of the equipment subject to a maximum of Rs. 1.00 lakh"]
+    },
+    {
+      "tag":"public sector /Farm Mechanization/application process",
+      "patterns":["How to apply for the Farm Mechanization scheme","Farm Mechanization scheme application process","Farm Mechanization scheme application form","scheme no 19612 application process","where to apply the Farm Mechanization scheme","where to apply the scheme no 19612","Farm Mechanization applying process","were to apply the Farm Mechanization scheme","how to apply the scheme no 19612"],
+      "responses":["Chairman / District Collector, Project Officer /Joint Director of Agriculture , DWDA, (PIA) at District level. Chief Executive Officer, State Level Nodal Agency, Chennai-32 (at State level)"]
     }
   ]
 }
