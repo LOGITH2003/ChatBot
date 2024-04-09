@@ -146,6 +146,28 @@
       "tag":"public sector / Handloom weavers / Scheme for integrated textile parks(SITP) Under the Scheme for setting up of Integrated Textile Parks/eligibility",
       "patterns":["scheme for integrated textile parks eligibility","SITP schemes eligibility","Handloon weavers scheme eligibility","Handloom weavers scheme for integrated textile parks eligibility","Handloom weavers scheme for setting up of Integrated Textile Parks eligibility","textile related scheme eligibility","textile related scheme for Handloom weavers eligibility","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks eligibility","textile related scheme for Handloom weavers for integrated textile parks eligibility","textile related scheme for Handloom weavers for setting up of Integrated Textile Parks eligibility"],
       "responses":["Under the Scheme for setting up of Integrated Textile Parks, the Government of India provides Grant or equity limited to 40% of the project cost subject to a ceiling of Rs.40 crore for the textile projects. However, the combined equity stake of Government of India / State Government / State Industrial Development Corporation, if any, should not exceed 49%."]  
+    },
+
+
+    {
+      "tag":"public sector / Government employees/ Health Insurance Scheme",
+      "patterns":["scheme for government empployees","government employees benefits","healthe insurance scheme for government employees","government employees health insurance scheme","government employees health insurance scheme details"],
+      "responses":["Title / Name : New Health Insurance Scheme, Sponsored By : State,Funding Pattern : 75% of the expenses or Rs.1.00 lakh whichever is less, Benefits Types : Health Insurance,How To Avail : Apply to the concerned Department,Description : Under this scheme a sum of Rs.10/- is recovered as subscription every month from the Government employee. Assistance to the tune of 75% of the expenses or Rs.1.00 lakh whichever is less is granted to those who apply for assistance with the documents relating to treatment taken for ailments approved under the scheme."]
+    },
+    {
+      "tag":"public sector / Government employees/ Health Insurance Scheme/fund amount",
+      "patterns":["scheme for government employees insurance fund amount","healthe insurance scheme for government employees fund amount","government employees health insurance scheme fund amount","government employees health insurance scheme details fund amount"],
+      "responses":["New Health Insurance Scheme fund amount is 75% of the expenses or Rs.1.00 lakh whichever is less","State governemnt will provide 75% of the expenses or Rs.1.00 lakh whichever is less for the New Health Insurance Scheme","The fund amount for the New Health Insurance Scheme is 75% of the expenses or Rs.1.00 lakh whichever is less"]
+    },
+    {
+      "tag":"public sector / Government employees/ Health Insurance Scheme/application process",
+      "patterns":["How to apply for the scheme for government employees","How to apply for the healthe insurance scheme for government employees","How to apply for the government employees health insurance scheme","How to apply for the government employees health insurance scheme details"],
+      "responses":["Apply to the concerned Department"]
+    },
+    {
+      "tag":"public sector / Government employees/ Health Insurance Scheme/eligibility",
+      "patterns":["scheme for government employees eligibility","healthe insurance scheme for government employees eligibility","government employees health insurance scheme eligibility","government employees health insurance scheme details eligibility"],
+      "responses":["Under this scheme a sum of Rs.10/- is recovered as subscription every month from the Government employee. Assistance to the tune of 75% of the expenses or Rs.1.00 lakh whichever is less is granted to those who apply for assistance with the documents relating to treatment taken for ailments approved under the scheme."]  
     }
   ]
 }
