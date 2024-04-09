@@ -168,6 +168,63 @@
       "tag":"public sector / Government employees/ Health Insurance Scheme/eligibility",
       "patterns":["scheme for government employees eligibility","healthe insurance scheme for government employees eligibility","government employees health insurance scheme eligibility","government employees health insurance scheme details eligibility"],
       "responses":["Under this scheme a sum of Rs.10/- is recovered as subscription every month from the Government employee. Assistance to the tune of 75% of the expenses or Rs.1.00 lakh whichever is less is granted to those who apply for assistance with the documents relating to treatment taken for ailments approved under the scheme."]  
+    },
+
+
+    {
+      "tag":"public sector / Journalists/ Family Benefit Scheme",
+      "patterns":["scheme no 6792","journalists family benefit scheme","journalists family benefit scheme details","journalists family benefit scheme details","journalists family benefit scheme details"],
+      "responses":["Title / Name : Journalists Family Benefit Fund, Associated Scheme : 6792, Sponsored By : State, Funding Pattern : From Rs. 50,000 to Rs. 2 Lakhs. Benefits Types : Grants, How To Avail : Apply to Tamil Development, Religious Endowment & Information Department, Description : Journalists' Family Benefit Fund is given from the Chief Minister's Public Relief Fund to families of Journalists who have served in any of these capacities viz, editor, sub-editor, reporter, photographer, proof reader for 20 years and passed away while in service. "]
+    },
+    {
+      "tag":"public sector / Journalists/ Family Benefit Scheme/fund amount",
+      "patterns":["scheme no 6792 fund amount","journalists family benefit scheme fund amount","journalists family benefit scheme details fund amount","journalists family benefit scheme details fund amount"],
+      "responses":["Journalists Family Benefit Fund fund amount is From Rs. 50,000 to Rs. 2 Lakhs","State governemnt will provide From Rs. 50,000 to Rs. 2 Lakhs for the Journalists Family Benefit Fund","The fund amount for the Journalists Family Benefit Fund is From Rs. 50,000 to Rs. 2 Lakhs"]
+    },
+    {
+      "tag":"public sector / Journalists/ Family Benefit Scheme/application process",
+      "patterns":["How to apply for the scheme no 6792","How to apply for the journalists family benefit scheme","How to apply for the journalists family benefit scheme details","How to apply for the journalists family benefit scheme details"],
+      "responses":["Apply to Tamil Development, Religious Endowment & Information Department"]
+    },
+    {
+      "tag":"public sector / Journalists/ Family Benefit Scheme/eligibility",
+      "patterns":["scheme no 6792 eligibility","journalists family benefit scheme eligibility","journalists family benefit scheme details eligibility","journalists family benefit scheme details eligibility"],
+      "responses":["Journalists' Family Benefit Fund is given from the Chief Minister's Public Relief Fund to families of Journalists who have served in any of these capacities viz, editor, sub-editor, reporter, photographer, proof reader for 20 years and passed away while in service."]  
+    },
+    {
+      "tag":"public sector / Journalists/ Journalists Pension Scheme",
+      "patterns":["journalists pension scheme","journalists pension scheme details","government pension scheme for journalists","pension for journalists"],
+      "responses":["Title / Name : Journalists Pension, Sponsored By : State, Funding Pattern : Rs. 4000/-, Benefits Types : Pension, How To Avail : Apply to Tamil Development, Religious Endowment & Information Department, Description : The monthly pension of Rs.4000/- given to retired journalists who have served for 20 years and are in indigent circumstances,"]
+    },
+    {
+      "tag":"public sector / Journalists/ Journalists Pension Scheme/fund amount",
+      "patterns":["journalists pension scheme fund amount","journalists pension scheme details fund amount","government pension scheme for journalists fund amount","pension for journalists fund amount"],
+      "responses":["Journalists Pension fund amount is Rs. 4000/-","State governemnt will provide Rs. 4000/- for the Journalists Pension","The fund amount for the Journalists Pension is Rs. 4000/-"]
+    },
+    {
+      "tag":"public sector / Journalists/ Journalists Pension Scheme/application process",
+      "patterns":["How to apply for the journalists pension scheme","How to apply for the journalists pension scheme details","How to apply for the government pension scheme for journalists","How to apply for the pension for journalists"],
+      "responses":["Apply to Tamil Development, Religious Endowment & Information Department"]
+    },
+    {
+      "tag":"public sector / Journalists/ Journalists Pension Scheme/eligibility",
+      "patterns":["journalists pension scheme eligibility","journalists pension scheme details eligibility","government pension scheme for journalists eligibility","pension for journalists eligibility"],
+      "responses":["The monthly pension of Rs.4000/- given to retired journalists who have served for 20 years and are in indigent circumstances,"]
+    },
+    {
+      "tag":"public sector / Journalists/ Journalists Medical Fund",
+      "patterns":["scheme no 6799","journalists medical fund details","government medical fund for journalists","medical fund for journalists"],
+      "responses":["Title / Name : Journalists Medical Fund, Associated Scheme : 6799, Sponsored By : State, Funding Pattern : Up to Rs. 50,000/-, Benefits Types : Medical Assistance, Description : Financial assistance to Journalists for medical treatment is provided from the Chief Minister’s Public Relief Fund."]
+    },
+    {
+      "tag":"public sector / Journalists/ Journalists Medical Fund/fund amount",
+      "patterns":["scheme no 6799 fund amount","journalists medical fund fund amount","journalists medical fund details fund amount","government medical fund for journalists fund amount","medical fund for journalists fund amount"],
+      "responses":["Journalists Medical Fund fund amount is Up to Rs. 50,000/-","State governemnt will provide Up to Rs. 50,000/- for the Journalists Medical Fund","The fund amount for the Journalists Medical Fund is Up to Rs. 50,000/-"]
+    },
+    {
+      "tag":"public sector / Journalists/ Journalists Medical Fund/application process",
+      "patterns":["How to apply for the journalists medical fund","How to apply for the journalists medical fund details","How to apply for the government medical fund for journalists","How to apply for the medical fund for journalists"],
+      "responses":["Financial assistance to Journalists for medical treatment is provided from the Chief Minister’s Public Relief Fund."]
     }
   ]
 }
