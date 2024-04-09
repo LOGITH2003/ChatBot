@@ -336,6 +336,153 @@
       "tag":"Industry/ state capital subsidy/Description",
       "patterns":["state capital subsidy scheme Description","state capital subsidy scheme details Description","state capital subsidy scheme for industries Description","state capital subsidy scheme for industries and commerce commissionerate Description"],
       "responses":["15 % capital subsidy on the value of eligible plant and machinery subject to a maximum of Rs.3.75 lakhs."]
+    },
+
+
+    {
+      "tag":"Co-operation bank/ loan for durables products",
+      "patterns":["loan for durables products","loan for durables products details","loan for durables products from co-operation bank","loan for durables products from co-operation bank details"],
+      "responses":["Title / Name : District central Cooperative Banks and through its branches - For Consumer durables T.V., Fridge and two wheelers loan. Sponsored By : State, Funding Pattern : Purpose for which loan can be obtained : Consumer durables T.V., Fridge and two wheelers loan. Maximum amount of loan : 75% of the cost (no. ceiling Rate of interest (Subject to change): 14%, Benefits Types : Grants, How To Avail : General/manager/ Special Officer, Description : Purpose for which loan can be obtained : Consumer durables T.V., Fridge and two wheelers loan. Maximum amount of loan : 75% of the cost (no. ceiling Rate of interest (Subject to change): 14%,"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for durables products/fund amount",
+      "patterns":["loan for durables products fund amount","loan for durables products details fund amount","loan for durables products from co-operation bank fund amount","loan for durables products from co-operation bank details fund amount"],
+      "responses":["Purpose for which loan can be obtained : Consumer durables T.V., Fridge and two wheelers loan. Maximum amount of loan : 75% of the cost (no. ceiling Rate of interest (Subject to change): 14%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for durables products/application process",
+      "patterns":["how to apply for loan for durables products","how to apply for loan for durables products details","how to apply for loan for durables products from co-operation bank","how to apply for loan for durables products from co-operation bank details"],
+      "responses":["neral/manager/ Special Officer from the District central Cooperative Banks and through its branches"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for durables products/eligibility",
+      "patterns":["loan for durables products eligibility","loan for durables products details eligibility","loan for durables products from co-operation bank eligibility","loan for durables products from co-operation bank details eligibility"],
+      "responses":["Purpose for which loan can be obtained : Consumer durables T.V., Fridge and two wheelers loan. Maximum amount of loan : 75% of the cost (no. ceiling Rate of interest (Subject to change): 14%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for durables products/interest rate",
+      "patterns":["loan for durables products interest rate","loan for durables products details interest rate","loan for durables products from co-operation bank interest rate","loan for durables products from co-operation bank details interest rate"],
+      "responses":["Rate of interest (Subject to change): 14%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for durables products/Description",
+      "patterns":["loan for durables products Description","loan for durables products details Description","loan for durables products from co-operation bank Description","loan for durables products from co-operation bank details Description"],
+      "responses":["Purpose for which loan can be obtained : Consumer durables T.V., Fridge and two wheelers loan. Maximum amount of loan : 75% of the cost (no. ceiling Rate of interest (Subject to change): 14%"]
+    },
+    {
+      "tag":"Co-operation bank/ SRTO loan",
+      "patterns":["how to apply the SRTO loan in Co-operation bank","how to apply the SRTO loan","SRTO loan details","SRTO loan from co-operation bank"],
+      "responses":["Title / Name : District central Cooperative Banks and through its branches - For Small Road Transport Operators loan (SRTO loan), Sponsored By : State, Funding Pattern : Purpose for which loan can be obtained : Small Road Transport Operators loan (SRTO loan) Maximum amount of loan : 10,00,000 Rate of interest (Subject to change): 13%,Benefits Types : Grants, How To Avail :General/manager/ Special Officer, Description : Purpose for which loan can be obtained : Small Road Transport Operators loan (SRTO loan) Maximum amount of loan : 10,00,000 Rate of interest(Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ SRTO loan/fund pattern",
+      "patterns":["SRTO loan fund amount","SRTO loan details fund amount","SRTO loan from co-operation bank fund amount"],
+      "responses":["Purpose for which loan can be obtained : Small Road Transport Operators loan (SRTO loan) Maximum amount of loan : 10,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ SRTO loan/application process",
+      "patterns":["how to apply the SRTO loan in Co-operation bank","how to apply the SRTO loan","SRTO loan details","SRTO loan from co-operation bank"],
+      "responses":["General/manager/ Special Officer from the District central Cooperative Banks and through its branches"]
+    },
+    {
+      "tag":"Co-operation bank/ SRTO loan/interest rate",
+      "patterns":["SRTO loan interest rate","SRTO loan details interest rate","SRTO loan from co-operation bank interest rate"],
+      "responses":["Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ SRTO loan/Description",
+      "patterns":["SRTO loan Description","SRTO loan details Description","SRTO loan from co-operation bank Description"],
+      "responses":["Purpose for which loan can be obtained : Small Road Transport Operators loan (SRTO loan) Maximum amount of loan : 10,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for agriculture",
+      "patterns":["how to apply the agriculture loan in Co-operation bank","how to apply the agriculture loan","agriculture loan details","agriculture loan from co-operation bank"],
+      "responses":["Title / Name : District central Cooperative Banks and through its branches - For Agriculture loan, Sponsored By : State, Funding Pattern : Purpose for which loan can be obtained : Agriculture loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%,Benefits Types : Grants, How To Avail :General/manager/ Special Officer, Description : Purpose for which loan can be obtained : Agriculture loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for agriculture/fund pattern",
+      "patterns":["agriculture loan fund amount","agriculture loan details fund amount","agriculture loan from co-operation bank fund amount"],
+      "responses":["Purpose for which loan can be obtained : Agriculture loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for agriculture/application process",
+      "patterns":["how to apply the agriculture loan in Co-operation bank","how to apply the agriculture loan","agriculture loan details","agriculture loan from co-operation bank"],
+      "responses":["General/manager/ Special Officer from the District central Cooperative Banks and through its branches"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for agriculture/interest rate",
+      "patterns":["agriculture loan interest rate","agriculture loan details interest rate","agriculture loan from co-operation bank interest rate"],
+      "responses":["Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ Jewel loan",
+      "patterns":["how to apply the Jewel loan in Co-operation bank","Jewel loan is aviable in Co-operation bank","Jewel loan details","Jewel loan from co-operation bank"],
+      "responses":["Title / Name : District central Cooperative Banks and through its branches - For Jewel loan, Sponsored By : State,Funding Pattern : Purpose for which loan can be obtained : Jewel loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 12%, Benefits Types : Grants, How To Avail : General/manager/ Special Officer, Description : Purpose for which loan can be obtained : Jewel loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 12%"]
+    },
+    {
+      "tag":"Co-operation bank/ Jewel loan/fund pattern",
+      "patterns":["Jewel loan fund amount","Jewel loan details fund amount","Jewel loan from co-operation bank fund amount"],
+      "responses":["Purpose for which loan can be obtained : Jewel loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 12%"]
+    },
+    {
+      "tag":"Co-operation bank/ Jewel loan/application process",
+      "patterns":["how to apply the Jewel loan in Co-operation bank","what is process to apply the Jewel loan","Jewel loan details","Jewel loan from co-operation bank"],
+      "responses":["General/manager/ Special Officer from the District central Cooperative Banks and through its branches"]
+    },
+    {
+      "tag":"Co-operation bank/ Jewel loan/interest rate",
+      "patterns":["Jewel loan interest rate","Jewel loan details interest rate","Jewel loan from co-operation bank interest rate"],
+      "responses":["Rate of interest (Subject to change): 12%"]
+    },
+    {
+      "tag":"Co-operation bank/ Jewel loan/Description",
+      "patterns":["Jewel loan Description","Jewel loan details Description","Jewel loan from co-operation bank Description"],
+      "responses":["Purpose for which loan can be obtained : Jewel loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 12%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for education",
+      "patterns":["how to apply the education loan in Co-operation bank","education loan is aviable in Co-operation bank","education loan details","education loan from co-operation bank"],
+      "responses":["Title / Name : District central Cooperative Banks and through its branches - For Education loan, Sponsored By : State, Funding Pattern : Purpose for which loan can be obtained : Education loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%, Benefits Types : Grants, How To Avail : General/manager/ Special Officer, Description : Purpose for which loan can be obtained : Education loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for education/fund pattern",
+      "patterns":["education loan fund amount","education loan details fund amount","education loan from co-operation bank fund amount"],
+      "responses":["Purpose for which loan can be obtained : Education loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for education/application process",
+      "patterns":["how to apply the education loan in Co-operation bank","what is process to apply the education loan","education loan details","education loan from co-operation bank"],
+      "responses":["General/manager/ Special Officer from the District central Cooperative Banks and through its branches"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for education/interest rate",
+      "patterns":["education loan interest rate","education loan details interest rate","education loan from co-operation bank interest rate"],
+      "responses":["Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for education/Description",
+      "patterns":["education loan Description","education loan details Description","education loan from co-operation bank Description"],
+      "responses":["Purpose for which loan can be obtained : Education loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for housing",
+      "patterns":["how to apply the housing loan in Co-operation bank","housing loan is aviable in Co-operation bank","housing loan details","housing loan from co-operation bank"],
+      "responses":["Title / Name : District central Cooperative Banks and through its branches - For Housing loan, Sponsored By : State, Funding Pattern : Purpose for which loan can be obtained : Housing loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%, Benefits Types : Grants, How To Avail : General/manager/ Special Officer, Description : Purpose for which loan can be obtained : Housing loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ loan for housing/fund pattern",
+      "patterns":["housing loan fund amount","housing loan details fund amount","housing loan from co-operation bank fund amount"],
+      "responses":["Purpose for which loan can be obtained : Housing loan Maximum amount of loan : 1,00,000 Rate of interest (Subject to change): 13%"]
+    },
+    {
+      "tag":"Co-operation bank/ Women Entrepreneur loan",
+      "patterns":["how to apply the women entrepreneur loan in Co-operation","any loan which are aviable for women entrepreneur in Co-operation bank"],
+      "responses":["Title / Name : District central Cooperative Banks and through its branches-for women entrepreneur loan, Sponsored By : State, Funding Pattern : Purpose for which loan can be obtained: Women entrepreneur loan Maximum amount of loan : 5,00,000 Rate of interest (Subject to change): 12%, Benefits Types : Grants, How To Avail : General/manager/ Special Officer, Description : Purpose for which loan can be obtained: Women Entreneous maximum amount of loan : 5,00,000 Rate of interest (Subject to change): 12%"]
+    },
+    {
+      "tag":"Co-operation bank/ Women Entrepreneur loan/fund pattern",
+      "patterns":["women entrepreneur loan fund amount","what are the fund pattern for women entrepreneur loan"],
+      "responses":["Purpose for which loan can be obtained : Women Entrepreneurs Maximum amount of loan : Up to Rs.5,00,000 Rate of interest (Subject to change): 12%"]
     }
   ]
 }
