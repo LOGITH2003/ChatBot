@@ -483,6 +483,157 @@
       "tag":"Co-operation bank/ Women Entrepreneur loan/fund pattern",
       "patterns":["women entrepreneur loan fund amount","what are the fund pattern for women entrepreneur loan"],
       "responses":["Purpose for which loan can be obtained : Women Entrepreneurs Maximum amount of loan : Up to Rs.5,00,000 Rate of interest (Subject to change): 12%"]
+    },
+
+
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Hostels - Special guides",
+      "patterns":["hostels special guides for tribal welfare dept","hostels special guides details","hostels special guides for adi dravidar and tribal welfare department","hostels special guides for adi dravidar and tribal welfare department details"],
+      "responses":["Title / Name : Adi Dravidar and Tribal Welfare Department -Hostels - Special Guides,Sponsored By : State, Benefits Types : Hostel Facilities, How To Avail : Warden/ Matron of the hostel, Description : All Boys/ Girls Boarders studying up to XII Standard"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Hostels - Special guides/avial",
+      "patterns":["how to apply for adi draviar or tribal hostel","how to apply the government providing hostel"],
+      "responses":[" Warden/ Matron of the hostel"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Hostels - Special guides/description",
+      "patterns":["hostels special guides for tribal welfare dept Description","hostels special guides details Description","hostels special guides for adi dravidar and tribal welfare department Description","hostels special guides for adi dravidar and tribal welfare department details Description"],
+      "responses":[" All Boys/ Girls Boarders studying up to XII Standard"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Award of Prizes",
+      "patterns":["award of prizes for tribal welfare","government presenting award for tribal people","award of prizes for adi dravidar and tribal welfare department","award of prizes for adi dravidar and tribal welfare department details"],
+      "responses":["Title / Name : Adi Dravidar and Tribal Welfare Department -Incentive / Award of Prizes - For each subjects (c) plus2 Examination Rs.2000/- (d)10th Std Examination Rs.1000/-, Benefits Types : Incentives, How To Avail : Director of Adi Dravidar welfare, Chennai-5 Through the District Adi Dravidar and Tribal welfare officer, Description : One Student each from Adi Dravidar / Tribal/Adi Dravider converted to Christianity for each subject"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Award of Prizes/avail",
+      "patterns":["how to apply the award for tribal welfare","how to apply the award for tribal people","how to apply the award for adi dravidar and tribal welfare","how to apply the award for adi dravidar and tribal welfare department details"],
+      "responses":["Director of Adi Dravidar welfare, Chennai-5 Through the District Adi Dravidar and Tribal welfare officer"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Award of Prizes/description",
+      "patterns":["award of prizes for tribal welfare Description","government presenting award for tribal people Description","award of prizes for adi dravidar and tribal welfare department Description","award of prizes for adi dravidar and tribal welfare department details Description"],
+      "responses":["One Student each from Adi Dravidar / Tribal/Adi Dravider converted to Christianity for each subject"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Scholarship",
+      "patterns":["what are the scholarship are avialable for adi dravidar and tribal welfare","Can you explain the scholarship for adi dravidar and tribal welfare"],
+      "responses":["Title / Name : Adi Dravidar and Tribal Welfare Department -Scholarship - Public Examination fee for 10th and 12th Std., Benefits Types : Education Benefits, How To Avail : Headmaster of the school, Description : Public Examination fee for 10th and 12th Std. These amounts will be reimbursed to the Directorate of Government Examinations directly by Govt.. All Adi Dravidar/Tribal / Adi Dravidar Converted to Christianity students are eligible with no income limit"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Scholarship/ avail",
+      "patterns":["how to apply the scholarship for tribal welfare","how to apply the scholarship for tribal people","how to apply the scholarship for adi dravidar and tribal welfare","how to apply the scholarship for adi dravidar and tribal welfare department details"],
+      "responses":["Headmaster of the school"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Scholarship/ description",
+      "patterns":["what are the scholarship are avialable for adi dravidar and tribal welfare Description","Can you explain the scholarship for adi dravidar and tribal welfare Description"],
+      "responses":["Public Examination fee for 10th and 12th Std. These amounts will be reimbursed to the Directorate of Government Examinations directly by Govt.. All Adi Dravidar/Tribal / Adi Dravidar Converted to Christianity students are eligible with no income limit"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Education benefits",
+      "patterns":["what are the education benefits are avialable for adi dravidar and tribal welfare","Can you explain the education benefits for adi dravidar and tribal welfare"],  
+      "responses":["Title / Name : All India Service Examinations like I.A.S., I.P.S., I.R.S., etc., Benefits Types : Education Benefits, How To Avail : Director, Anna Institute of Management, Chennai-28, Description : Pre Examination training centre for All India Service Examinations like I.A.S., I.P.S., I.R.S., etc. boarding, lodging, coaching etc. are provided free of cost. Parental income should below Rs.1.00 lakh per annum. Mess Charges Rs.1200 per month should be paid by the students whose parental income is above Rs.1 lakh per annum."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Education benefits/ avail",
+      "patterns":["how to apply the education benefits for tribal welfare","how to apply the education benefits for tribal people","how to apply the education benefits for adi dravidar and tribal welfare","how to apply the education benefits for adi dravidar and tribal welfare department details"],
+      "responses":["Director, Anna Institute of Management, Chennai-28"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Education benefits/ description",
+      "patterns":["what are the education benefits are avialable for adi dravidar and tribal welfare Description","Can you explain the education benefits for adi dravidar and tribal welfare Description"],
+      "responses":["Pre Examination training centre for All India Service Examinations like I.A.S., I.P.S., I.R.S., etc. boarding, lodging, coaching etc. are provided free of cost. Parental income should below Rs.1.00 lakh per annum. Mess Charges Rs.1200 per month should be paid by the students whose parental income is above Rs.1 lakh per annum."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ free Houses",
+      "patterns":["what are the free houses are avialable for adi dravidar and tribal welfare","Can you explain the free houses for adi dravidar and tribal welfare"],
+      "responses":["Title / Name : Adi Dravidar and Tribal Welfare Department -Free Houses, Benefits Types : Housing site, How To Avail : Commissioner / Panchayat Union / District Adi dravidar and Tribal Welfare Officer / Commissioner of Tribal Welfare concerned, Description : Construction of free houses for Tribals who are having free house site pittas. Free houses will be constructed."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ free Houses/ avail",
+      "patterns":["how to apply the adi dravidar and tribal welfare free houses","how to apply the free houses for tribal people","how to apply the free houses for adi dravidar and tribal welfare","how to apply the free houses for adi dravidar and tribal welfare department details"],
+      "responses":["Commissioner / Panchayat Union / District Adi dravidar and Tribal Welfare Officer / Commissioner of Tribal Welfare concerned"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ free Houses/ description",
+      "patterns":["what are the free houses are avialable for adi dravidar and tribal welfare Description","Can you explain the free houses for adi dravidar and tribal welfare Description"],
+      "responses":["Construction of free houses for Tribals who are having free house site pittas. Free houses will be constructed."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Award for bright student",
+      "patterns":["what are the award for bright student are avialable for adi dravidar and tribal welfare","Can you explain the award for bright student for adi dravidar and tribal welfare"],
+      "responses":["Title / Name : Awards to Bright Students, Benefits Types : Education Benefits, How To Avail : Director of Adi Dravidar Welfare , Chennai-5. through the Educational Institutions., Description : Awards to Bright Students - First two boys and two girls in each district from each community viz., Adi Dravidar/ Tribal / Adi Dravidar Converted to Christianity who have passed 10th std., Public Examinations and continue their studies are given a sum of Rs.800/- for the first year and Rs.960/- for the next 5 years. Should have secured first and second place in the 10th Std, in the district. Continue their studies. No income limits ."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Award for bright student/application",
+      "patterns":["how to apply the award for bright student for tribal welfare","how to apply the award for bright student for tribal people","how to apply the award for bright student for adi dravidar and tribal welfare","how to apply the award for bright student for adi dravidar and tribal welfare department details"],
+      "responses":["Director of Adi Dravidar Welfare , Chennai-5. through the Educational Institutions."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Award for bright student/description",
+      "patterns":["what are the award for bright student are avialable for adi dravidar and tribal welfare Description","Can you explain the award for bright student for adi dravidar and tribal welfare Description"],
+      "responses":["Awards to Bright Students - First two boys and two girls in each district from each community viz., Adi Dravidar/ Tribal / Adi Dravidar Converted to Christianity who have passed 10th std., Public Examinations and continue their studies are given a sum of Rs.800/- for the first year and Rs.960/- for the next 5 years. Should have secured first and second place in the 10th Std, in the district. Continue their studies. No income limits ."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Animal Husbandry",
+      "patterns":["what are the animal husbandry are avialable for adi dravidar and tribal welfare","Can you explain the animal husbandry for adi dravidar and tribal welfare"],
+      "responses":["Title / Name : Animal Husbandry, Benefits Types : Grants, How To Avail : DAD and TWO / Director, Animal Husbandry Dept. Veterinary Doctors in the Veterinary Hospital Livestock Inspectors concerned. Description : Animal Husbandry - Distribution of sheep Units, Milch animals, calves at 50percent to 75percent subsidised cost and provision of health cover to the animals, artificial insemination etc. Tribals are given preference."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Animal Husbandry/avail",
+      "patterns":["how to apply the animal husbandry for tribal welfare","how to apply the animal husbandry for tribal people","how to apply the animal husbandry for adi dravidar and tribal welfare","how to apply the animal husbandry for adi dravidar and tribal welfare department details"],
+      "responses":["DAD and TWO / Director, Animal Husbandry Dept. Veterinary Doctors in the Veterinary Hospital Livestock Inspectors concerned"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Animal Husbandry/description",
+      "patterns":["what are the animal husbandry are avialable for adi dravidar and tribal welfare Description","Can you explain the animal husbandry for adi dravidar and tribal welfare Description"],
+      "responses":["Animal Husbandry - Distribution of sheep Units, Milch animals, calves at 50percent to 75percent subsidised cost and provision of health cover to the animals, artificial insemination etc. Tribals are given preference."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Memorial Award",
+      "patterns":["what are the memorial award are avialable for adi dravidar and tribal welfare","Can you explain the memorial award for adi dravidar and tribal welfare"],  
+      "responses":["Title / Name : Annal Gandhi Memorial Award, Benefits Types : Education Benefits, How To Avail : CADW through educational institutions., Description : One boy and one girl belonging to Hindu Adi Dravidar community who secure first rank in each district in plus 2 Public Examinations. An award of Rs.2,000 is given in the first year and Rs.1,500 per annum for the succeeding five years."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Memorial Award/ avail",
+      "patterns":["how to apply the memorial award for tribal welfare","how to apply the memorial award for tribal people","how to apply the memorial award for adi dravidar and tribal welfare","how to apply the memorial award for adi dravidar and tribal welfare department details"],
+      "responses":["CADW through educational institutions."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Memorial Award/ description",
+      "patterns":["what are the memorial award are avialable for adi dravidar and tribal welfare Description","Can you explain the memorial award for adi dravidar and tribal welfare Description"],
+      "responses":["One boy and one girl belonging to Hindu Adi Dravidar community who secure first rank in each district in plus 2 Public Examinations. An award of Rs.2,000 is given in the first year and Rs.1,500 per annum for the succeeding five years."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Assistance for Funeral Rites",
+      "patterns":["what are the assistance for funeral rites are avialable for adi dravidar and tribal welfare","Can you explain the assistance for funeral rites for adi dravidar and tribal welfare"],
+      "responses":["Title / Name : Assistance for Funeral Rites, Benefits Types : Funeral Benefits, How To Avail : CADW through the District Adi Dravidar and Tribal Welfare Officer, Description : Assistance for Funeral Rites - Rs.1,000/- for each death of Adi Dravidar / Tribal / Adi Dravidar Converted to Christianity"]
+    },{
+      "tag":"Adi dravidar and tribal welfare department/ Assistance for Funeral Rites/ avail",
+      "patterns":["how to apply the assistance for funeral rites for tribal welfare","how to apply the assistance for funeral rites for tribal people","how to apply the assistance for funeral rites for adi dravidar and tribal welfare","how to apply the assistance for funeral rites for adi dravidar and tribal welfare department details"],
+      "responses":["CADW through the District Adi Dravidar and Tribal Welfare Officer"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Assistance for Funeral Rites/ description",
+      "patterns":["what are the assistance for funeral rites are avialable for adi dravidar and tribal welfare Description","Can you explain the assistance for funeral rites for adi dravidar and tribal welfare Description"],
+      "responses":["Assistance for Funeral Rites - Rs.1,000/- for each death of Adi Dravidar / Tribal / Adi Dravidar Converted to Christianity"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Assistance to Lawyers",
+      "patterns":["what are the assistance to lawyers are avialable for adi dravidar and tribal welfare","Can you explain the assistance to lawyers for adi dravidar and tribal welfare"],
+      "responses":["Title / Name : Assistance to Lawyers for Starting their Practice, Benefits Types : Incentives, How To Avail : District Adi dravidar and Tribal Welfare Officer/ Director ADW Chennai-5, Description : Adi Dravidar/ Tribal Lawyers will be eligible . Lawyers who registered their name within 5 years only eligible. Annual income of parent Rs. 1,00,000/-."]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Assistance to Lawyers/ avail",
+      "patterns":["how to apply the assistance to lawyers for tribal welfare","how to apply the assistance to lawyers for tribal people","how to apply the assistance to lawyers for adi dravidar and tribal welfare","how to apply the assistance to lawyers for adi dravidar and tribal welfare department details"],
+      "responses":["District Adi dravidar and Tribal Welfare Officer/ Director ADW Chennai-5"]
+    },
+    {
+      "tag":"Adi dravidar and tribal welfare department/ Assistance for Lawyers/ description",
+      "patterns":["what are the assistance to lawyers are avialable for adi dravidar and tribal welfare Description","Can you explain the assistance to lawyers for adi dravidar and tribal welfare Description"],
+      "responses":["Adi Dravidar/ Tribal Lawyers will be eligible . Lawyers who registered their name within 5 years only eligible. Annual income of parent Rs. 1,00,000/-."]
     }
   ]
 }
