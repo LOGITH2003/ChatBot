@@ -29,9 +29,14 @@
         function sendMessage() {
             var userInput = document.getElementById('user-input').value;
             var chatBox = document.getElementById('chat-box');
+            
+            if(userInput === '') return; // Check if user input is empty
 
             var userMessage = '<div class="user-message">' + userInput + '</div>';
             chatBox.innerHTML += userMessage;
+    
+            // Scroll chat box to the bottom
+            chatBox.scrollTop = chatBox.scrollHeight;
 
             fetch('/get_response', {
                 method: 'POST',
@@ -67,5 +72,6 @@
         
         
     </script>
+    
 </body>
 </html>
