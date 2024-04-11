@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="chat-container">
+            <div class="chat-box" id="chat-box"></div>           
+            <center>
+                <input type="text" id="user-input" placeholder="Type your message...">
+                <button onclick="sendMessage()">Send</button>
+                <button onclick="clearChat()">Clear Chat</button>
+            </center>
+        </div>
+    </div>
+
+    <script>
+        function sendMessage() {
+            var userInput = document.getElementById('user-input').value;
+            var chatBox = document.getElementById('chat-box');
+
+            var userMessage = '<div class="user-message">' + userInput + '</div>';
+            chatBox.innerHTML += userMessage;
+
+            fetch('/get_response', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: 'user_input=' + userInput,
+            })
+            .then(response => response.json())
+            .then(data => {
+                var botMessage = '<div class="bot-message">' + data.bot_response + '</div>';
+                chatBox.innerHTML += botMessage;
+            });
+        }
+
+        function clearChat() {
+            var chatBox = document.getElementById('chat-box');
+            chatBox.innerHTML = ''; // Clear chat box
+        }
+    </script>
+</body>
+</html>
