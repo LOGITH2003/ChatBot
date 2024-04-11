@@ -23,6 +23,7 @@ body {
 }
 
 .chat-container {
+    
     padding: 20px;
     height: 70vh;
     display: flex;
