@@ -29,9 +29,14 @@
         function sendMessage() {
             var userInput = document.getElementById('user-input').value;
             var chatBox = document.getElementById('chat-box');
+            
+            if(userInput === '') return; // Check if user input is empty
 
             var userMessage = '<div class="user-message">' + userInput + '</div>';
             chatBox.innerHTML += userMessage;
+    
+            // Scroll chat box to the bottom
+            chatBox.scrollTop = chatBox.scrollHeight;
 
             fetch('/get_response', {
                 method: 'POST',
@@ -45,27 +50,34 @@
                 var botMessage = '<div class="bot-message">' + data.bot_response + '</div>';
                 chatBox.innerHTML += botMessage;
                 
+                // Scroll chat box to the bottom
+                chatBox.scrollTop = chatBox.scrollHeight;
+                
                 // Clear user input after message is sent
                 document.getElementById('user-input').value = '';
             });
         }
         
-        //clear the chart 
+        // Clear the chat
         function clearChat() {
             var chatBox = document.getElementById('chat-box');
             chatBox.innerHTML = ''; // Clear chat box
         }
-
-        //press the enter button it will send the message
+    
+        // Press the Enter key to send the message
         function handleKeyPress(event) {
             if (event.keyCode === 13) { // Check if Enter key is pressed
                 event.preventDefault(); // Prevent default behavior of Enter key
                 sendMessage(); // Call sendMessage function
             }
+            else if (event.keyCode === 38) { // Check if Up arrow key is pressed
+                var userInputField = document.getElementById('user-input');
+                if (userInputField.value.trim() === '') {
+                    userInputField.value = previousUserInput; // Set the previous message in the input box
+                }
+            } 
         }
-
-        
-        
     </script>
+    
 </body>
 </html>
