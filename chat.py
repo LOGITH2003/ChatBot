@@ -39,6 +39,18 @@ def agriculture():
 def Education():
     return render_template('Education.html')
 
+@app.route('/SocialWelfare')
+def SocialWelfare():
+    return render_template('SocialWelfare.html')
+
+@app.route('/Entrepreneur')
+def Entrepreneur():
+    return render_template('Entrepreneur.html')
+
+@app.route('/Health')
+def Health():
+    return render_template('Health.html')
+
 @app.route('/Ask Assistant')
 def AskAssistant():
     return render_template('index.html')

@@ -38,12 +38,16 @@ table td{
     font-weight: 600;
   }
 
-a{
+.back a{
     text-decoration: none !important;
     color: white !important;
     padding: 20px;
 }
 
+.ask a{
+    text-decoration: none !important;
+    
+}
 .underlinehead {
     /* color: rgb(45, 48, 121) !important; */
     /* font-weight: 600; */
