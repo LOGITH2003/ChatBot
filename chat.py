@@ -35,6 +35,10 @@ def home():
 def agriculture():
     return render_template('agriculture.html')
 
+@app.route('/Education')
+def Education():
+    return render_template('Education.html')
+
 @app.route('/Ask Assistant')
 def AskAssistant():
     return render_template('index.html')
