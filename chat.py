@@ -26,11 +26,21 @@ model = NeuralNet(input_size, hidden_size, output_size)
 model.load_state_dict(model_state)
 model.eval()
 
-bot_name = "Sam"
 
 @app.route('/')
 def home():
+    return render_template('home.html')  
+
+@app.route('/agriculture')
+def agriculture():
+    return render_template('agriculture.html')
+
+@app.route('/Ask Assistant')
+def AskAssistant():
     return render_template('index.html')
+
+
+
 
 @app.route('/get_response', methods=['POST'])
 def get_response():

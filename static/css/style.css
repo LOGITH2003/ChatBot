@@ -19,15 +19,18 @@ body {
     /* height: 100vh; */
 }
 
-.containerc {
-    width: 90%;
-    max-width: 800px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
+input[type="text"] {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    /* margin-right: 10px; */
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
+.blue-text{
+    color:rgb(45, 48, 121);
+}
 .blue-text{
     color:rgb(45, 48, 121);
 }
@@ -57,14 +60,21 @@ table td{
     color: rgb(45, 48, 121) !important;
     font-weight: 600;
   }
+  a{
+    text-decoration: none !important;
+    color: white !important;
+    padding: 20px;
+}
 
 
 .chat-container {
-    
-    padding: 20px;
+    border: 1px;
+    padding: 1rem;border-radius: 10px;
+
     height: 70vh;
     display: flex;
     flex-direction: column;
+    box-shadow: 0 0 10px rgba(45, 48, 121, 0.219);
 }
 
 .chat-box {
@@ -74,13 +84,13 @@ table td{
     margin-bottom: 20px;
 }
 
-input[type="text"] {
+/* input[type="text"] {
     width: calc(100% - 140px);
     padding: 10px;
     margin-right: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-}
+} */
 
 /* button {
     padding: 10px 20px;

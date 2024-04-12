@@ -79,7 +79,11 @@ table td{
 }
 
 
-
+a{
+    text-decoration: none !important;
+   
+    padding: 20px;
+}
 .hover {
     transition: transform 0.3s, box-shadow 0.3s;
 }
