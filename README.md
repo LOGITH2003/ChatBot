@@ -1,8 +1,7 @@
 
 ## ChatBot 
 
-The code is working fine. We need to update the existing data and add new data based on our project requirements.
-
+If you want to work on or test the project, start by installing all the dependencies. Provide the data to train the model, and after training, run the chat.py file
     
 ## Installation
 
