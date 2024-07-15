@@ -29,7 +29,7 @@ Install torchvision and torchaudio separately due to potential compatibility iss
 ## follow the steps
 
 
-- Run the default.py   -- We need to set up the project dependencies 
-- Run the train.py     -- We need to train the model
-- Run the chat.py      -- Then start running the application
+- Run the default.py   -- to set up the project dependencies
+- Run the train.py     -- to train the model
+- Run the chat.py      -- to start running the application
 
